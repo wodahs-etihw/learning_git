@@ -1,2 +1,2 @@
 # learning_git
-Author Ritesh Kushwaha 
+Author Ritesh Kushwaha (OWN)
